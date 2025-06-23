@@ -1,0 +1,11 @@
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\bin\Debug\net8.0\Lab11.EmpresaCQRS.deps.json
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\bin\Debug\net8.0\Lab11.EmpresaCQRS.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\bin\Debug\net8.0\Lab11.EmpresaCQRS.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\Lab11.EmpresaCQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\Lab11.EmpresaCQRS.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\Lab11.EmpresaCQRS.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\Lab11.EmpresaCQRS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\Lab11.EmpresaCQRS.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\refint\Lab11.EmpresaCQRS.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\Lab11.EmpresaCQRS.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.EmpresaCQRS\obj\Debug\net8.0\ref\Lab11.EmpresaCQRS.dll

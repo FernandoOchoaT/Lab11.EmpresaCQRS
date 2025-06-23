@@ -1,0 +1,15 @@
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\bin\Release\net8.0\Lab11.Infrastructure.deps.json
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\bin\Release\net8.0\Lab11.Infrastructure.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\bin\Release\net8.0\Lab11.Infrastructure.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\bin\Release\net8.0\Lab11.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\bin\Release\net8.0\Lab11.Domain.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.In.D01EA49E.Up2Date
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\refint\Lab11.Infrastructure.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\Lab11.Infrastructure.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Infrastructure\obj\Release\net8.0\ref\Lab11.Infrastructure.dll

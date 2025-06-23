@@ -1,0 +1,11 @@
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\bin\Release\net8.0\Lab11.Domain.deps.json
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\bin\Release\net8.0\Lab11.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\bin\Release\net8.0\Lab11.Domain.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\Lab11.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\Lab11.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\Lab11.Domain.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\Lab11.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\Lab11.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\refint\Lab11.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\Lab11.Domain.pdb
+C:\Users\Usuario\RiderProjects\Lab11.EmpresaCQRS\Lab11.Domain\obj\Release\net8.0\ref\Lab11.Domain.dll

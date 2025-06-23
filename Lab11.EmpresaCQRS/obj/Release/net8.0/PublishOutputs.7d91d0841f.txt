@@ -1,0 +1,3 @@
+C:\Users\Usuario\PublicacionProyecto\Lab11.EmpresaCQRS.dll
+C:\Users\Usuario\PublicacionProyecto\Lab11.EmpresaCQRS.deps.json
+C:\Users\Usuario\PublicacionProyecto\Lab11.EmpresaCQRS.pdb
